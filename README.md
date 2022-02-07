@@ -3,7 +3,7 @@
 
 Be greeted by a selection of random marine creatures on every new Fish shell.
 
-
+<img src="docs/screenshot@2x.png" alt="Screenshot" width="808" />
 
 ## Install
 At the top of your `~/.config/fish/config.fish`,
