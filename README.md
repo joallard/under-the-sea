@@ -31,3 +31,7 @@ end
 ```
 
 On starting a new shell, you will be greeted by some fishes!
+
+## Development: Todo
+
+* Make it easier to install (split into a separate file, make it compatible with Fisher)
